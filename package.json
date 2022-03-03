@@ -1,0 +1,23 @@
+{
+  "name": "@noahtkeller/home-mono",
+  "version": "0.1.0",
+  "description": "The monorepo for all of my personal resources. This contains all of the other repositories, as well as some general management tools, IDEA run configurations, and other stuff.",
+  "dependencies": {
+    "@octokit/core": "^3.6.0",
+    "gulp": "^4.0.2",
+    "simple-git": "^3.4.0"
+  },
+  "scripts": {
+    "update-gh-descriptions": "gulp updateGithubDescriptions"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/noahtkeller/home-mono.git"
+  },
+  "author": "Noah Keller <noahtkeller@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noahtkeller/home-mono/issues"
+  },
+  "homepage": "https://github.com/noahtkeller/home-mono#readme"
+}

@@ -1,0 +1,66 @@
+[submodule "ansible"]
+	path = ansible
+	url = ssh://git@github.com/noahtkeller/home-ansible.git
+[submodule "packer"]
+	path = packer
+	url = ssh://git@github.com/noahtkeller/home-packer.git
+[submodule "terraform"]
+	path = terraform
+	url = ssh://git@github.com/noahtkeller/home-terraform.git
+[submodule "code/blog-source"]
+	path = code/blog-source
+	url = ssh://git@github.com/noahtkeller/blog-source.git
+[submodule "code/go-bacnet"]
+	path = code/go-bacnet
+	url = ssh://git@github.com/noahtkeller/go-bacnet.git
+[submodule "code/noahtkeller.github.io"]
+	path = code/noahtkeller.github.io
+	url = ssh://git@github.com/noahtkeller/noahtkeller.github.io.git
+[submodule "code/node-common-backend"]
+	path = code/node-common-backend
+	url = ssh://git@github.com/noahtkeller/node-common-backend.git
+[submodule "code/node-common-strings"]
+	path = code/node-common-strings
+	url = ssh://git@github.com/noahtkeller/node-common-strings.git
+[submodule "code/node-express-services"]
+	path = code/node-express-services
+	url = ssh://git@github.com/noahtkeller/node-express-services.git
+[submodule "code/node-scrapers"]
+	path = code/node-scrapers
+	url = ssh://git@github.com/noahtkeller/node-scrapers.git
+[submodule "code/sam-scrapers"]
+	path = code/sam-scrapers
+	url = ssh://git@github.com/noahtkeller/sam-scrapers.git
+[submodule "code/strings-source"]
+	path = code/strings-source
+	url = ssh://git@github.com/noahtkeller/strings-source.git
+[submodule "code/vue-dashboard"]
+	path = code/vue-dashboard
+	url = ssh://git@github.com/noahtkeller/vue-dashboard.git
+[submodule "code/node-kat-cli"]
+	path = code/node-kat-cli
+	url = ssh://git@github.com/noahtkeller/node-kat-cli.git
+[submodule "code/node-express-tgz"]
+	path = code/node-express-tgz
+	url = ssh://git@github.com/noahtkeller/node-express-tgz.git
+[submodule "code/node-us-census-api"]
+	path = code/node-us-census-api
+	url = ssh://git@github.com/noahtkeller/node-us-census-api.git
+[submodule "code/hugo-noahtkeller-theme"]
+	path = code/hugo-noahtkeller-theme
+	url = ssh://git@github.com/noahtkeller/hugo-noahtkeller-theme.git
+[submodule "code/sass-md-theme"]
+	path = code/sass-md-theme
+	url = ssh://git@github.com/noahtkeller/sass-md-theme.git
+[submodule "code/vue-yify-client"]
+	path = code/vue-yify-client
+	url = ssh://git@github.com/noahtkeller/vue-yify-client.git
+[submodule "code/node-webpeer-bridge"]
+	path = code/node-webpeer-bridge
+	url = ssh://git@github.com/noahtkeller/node-webpeer-bridge.git
+[submodule "code/vue-oidc-plugin"]
+	path = code/vue-oidc-plugin
+	url = ssh://git@github.com/noahtkeller/vue-oidc-plugin.git
+[submodule "code/node-conductor-services"]
+	path = code/node-conductor-services
+	url = ssh://git@github.com/noahtkeller/node-conductor-services.git

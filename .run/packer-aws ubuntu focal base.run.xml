@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="packer-aws ubuntu focal base" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile">
+    <makefile filename="$PROJECT_DIR$/Makefile" target="packer-aws" workingDirectory="" arguments="distro=ubuntu release=focal service=base">
+      <envs>
+        <env name="AWS_PROFILE" value="noahhome" />
+      </envs>
+    </makefile>
+    <method v="2" />
+  </configuration>
+</component>
